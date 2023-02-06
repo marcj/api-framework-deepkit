@@ -1,0 +1,11 @@
+{
+  "name": "api-framework-deepkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sh build-api.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
